@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_ambientBrighteningThresholds">
+        <item>100</item>
+    </array>
+    <array name="config_ambientDarkeningThresholds">
+        <item>200</item>
+    </array>
+    <array name="config_ambientThresholdLevels">
+    </array>
+    <array name="config_autoBrightnessDisplayValuesNits">
+    </array>
+    <array name="config_autoBrightnessLcdBacklightValues">
+    </array>
+    <array name="config_autoBrightnessLevels">
+    </array>
+    <array name="config_longPressVibePattern">
+        <item>@null</item>
+        <item>1</item>
+        <item>20</item>
+        <item>21</item>
+    </array>
+    <array name="config_screenBrighteningThresholds">
+        <item>100</item>
+    </array>
+    <array name="config_screenDarkeningThresholds">
+        <item>200</item>
+    </array>
+    <array name="config_virtualKeyVibePattern">
+        <item>@null</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </array>
+</resources>

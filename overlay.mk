@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-misc-dt2w \
 	treble-overlay-misc-minimal-brightness \
 	treble-overlay-mtk-ims \
+	treble-overlay-realme-x2pro \
 	treble-overlay-sec-ims \
 	treble-overlay-sprd-ims \
 	treble-overlay-telephony-caf-ims \
